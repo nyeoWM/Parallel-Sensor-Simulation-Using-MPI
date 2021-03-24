@@ -1,5 +1,5 @@
 # Description
-An Implementation and Analysis of a Wireless Sensor Network using Message Passing Interface and Open Multi Processing. More analysis in Wireles Sensor Network Simulation using MPI.pdf  
+An Implementation and Analysis of a Wireless Sensor Network using Message Passing Interface and Open Multi Processing. Further details and analysis in docs/Wireles-Sensor Network-Simulation-using-MPI-Report.pdf
 
 ## Details
 Base Station Runs in a constant loop until the user quits, periodically checking for messages from the sensors. 

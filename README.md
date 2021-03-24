@@ -1,12 +1,10 @@
 # Description
-A simulation of parallel sensor system for detection of forest fires using MPI.  
+An Implementation and Analysis of a Wireless Sensor Network using Message Passing Interface and Open Multi Processing. More analysis in Wireles Sensor Network Simulation using MPI.pdf  
 
-## Methology
+## Details
 Base Station Runs in a constant loop until the user quits, periodically checking for messages from the sensors. 
 
 To quit, user inputs 10 into input txt file. 
-
-More details in 
 
 # Running the program
 ## Building

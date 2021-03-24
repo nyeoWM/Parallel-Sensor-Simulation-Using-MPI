@@ -1,9 +1,7 @@
-/*
-	FIT3143 Assignment 2
-	
-	Members:
-	29906164 Sulthan De Neiro Raihan Syah Bungin 
-	29458021 Nicholas Yeo Wei Ming
+/*	
+Credits to
+Sulthan De Neiro Raihan Syah Bungin 
+Nicholas Yeo Wei Ming
 
 	This file contain the program to run the base station.
 */

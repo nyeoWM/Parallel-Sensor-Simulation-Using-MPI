@@ -1,0 +1,795 @@
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:44
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+17                (3,2)         86        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+18                (3,3)         90        127.0.1.1
+16                (3,1)         88        127.0.1.1
+22                (4,2)         84        127.0.1.1
+12                (2,2)         92        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 77
+Infrared Satellite Reporting Coord : (3,2)
+
+Communication Time (seconds) : 0.010552
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+21                (4,1)         97        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+20                (4,0)         90        127.0.1.1
+16                (3,1)         88        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 85
+Infrared Satellite Reporting Coord : (4,1)
+
+Communication Time (seconds) : 0.008932
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+7                (1,2)         95        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+8                (1,3)         97        127.0.1.1
+12                (2,2)         92        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 90
+Infrared Satellite Reporting Coord : (1,2)
+
+Communication Time (seconds) : 0.001549
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+15                (3,0)         84        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+16                (3,1)         88        127.0.1.1
+20                (4,0)         90        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 92
+Infrared Satellite Reporting Coord : (3,0)
+
+Communication Time (seconds) : 0.006051
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+13                (2,3)         82        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+14                (2,4)         89        127.0.1.1
+12                (2,2)         92        127.0.1.1
+18                (3,3)         90        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 73
+Infrared Satellite Reporting Coord : (2,3)
+
+Communication Time (seconds) : 0.001016
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+20                (4,0)         90        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+21                (4,1)         97        127.0.1.1
+15                (3,0)         84        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 87
+Infrared Satellite Reporting Coord : (4,0)
+
+Communication Time (seconds) : 0.003541
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+22                (4,2)         84        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+23                (4,3)         79        127.0.1.1
+17                (3,2)         86        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 90
+Infrared Satellite Reporting Coord : (4,2)
+
+Communication Time (seconds) : 0.004583
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+12                (2,2)         92        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+13                (2,3)         82        127.0.1.1
+17                (3,2)         86        127.0.1.1
+7                (1,2)         95        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 88
+Infrared Satellite Reporting Coord : (2,2)
+
+Communication Time (seconds) : 0.008932
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+14                (2,4)         89        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+13                (2,3)         82        127.0.1.1
+19                (3,4)         96        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 85
+Infrared Satellite Reporting Coord : (2,4)
+
+Communication Time (seconds) : 0.006777
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+16                (3,1)         88        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+17                (3,2)         86        127.0.1.1
+15                (3,0)         84        127.0.1.1
+21                (4,1)         97        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 83
+Infrared Satellite Reporting Coord : (3,1)
+
+Communication Time (seconds) : 0.014360
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+18                (3,3)         90        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+19                (3,4)         96        127.0.1.1
+17                (3,2)         86        127.0.1.1
+13                (2,3)         82        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 86
+Infrared Satellite Reporting Coord : (3,3)
+
+Communication Time (seconds) : 0.008418
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+19                (3,4)         96        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+18                (3,3)         90        127.0.1.1
+24                (4,4)         86        127.0.1.1
+14                (2,4)         89        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 96
+Infrared Satellite Reporting Coord : (3,4)
+
+Communication Time (seconds) : 0.021478
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 1
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:45
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+24                (4,4)         86        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+23                (4,3)         79        127.0.1.1
+19                (3,4)         96        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 87
+Infrared Satellite Reporting Coord : (4,4)
+
+Communication Time (seconds) : 0.006803
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:45
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+13                (2,3)         91        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+12                (2,2)         93        127.0.1.1
+8                (1,3)         90        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 94
+Infrared Satellite Reporting Coord : (2,3)
+
+Communication Time (seconds) : 0.012504
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+24                (4,4)         88        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+23                (4,3)         95        127.0.1.1
+19                (3,4)         89        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 74
+Infrared Satellite Reporting Coord : (4,4)
+
+Communication Time (seconds) : 0.004474
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+11                (2,1)         92        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+12                (2,2)         93        127.0.1.1
+10                (2,0)         99        127.0.1.1
+16                (3,1)         93        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 96
+Infrared Satellite Reporting Coord : (2,1)
+
+Communication Time (seconds) : 0.012657
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+12                (2,2)         93        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+13                (2,3)         91        127.0.1.1
+11                (2,1)         92        127.0.1.1
+17                (3,2)         87        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 72
+Infrared Satellite Reporting Coord : (2,2)
+
+Communication Time (seconds) : 0.007139
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+21                (4,1)         91        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+22                (4,2)         89        127.0.1.1
+20                (4,0)         84        127.0.1.1
+16                (3,1)         93        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 98
+Infrared Satellite Reporting Coord : (4,1)
+
+Communication Time (seconds) : 0.007555
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+22                (4,2)         89        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+23                (4,3)         95        127.0.1.1
+21                (4,1)         91        127.0.1.1
+17                (3,2)         87        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 97
+Infrared Satellite Reporting Coord : (4,2)
+
+Communication Time (seconds) : 0.008144
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+10                (2,0)         99        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+11                (2,1)         92        127.0.1.1
+5                (1,0)         98        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 85
+Infrared Satellite Reporting Coord : (2,0)
+
+Communication Time (seconds) : 0.011246
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+16                (3,1)         93        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+17                (3,2)         87        127.0.1.1
+21                (4,1)         91        127.0.1.1
+11                (2,1)         92        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 78
+Infrared Satellite Reporting Coord : (3,1)
+
+Communication Time (seconds) : 0.015057
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+17                (3,2)         87        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+16                (3,1)         93        127.0.1.1
+22                (4,2)         89        127.0.1.1
+12                (2,2)         93        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 88
+Infrared Satellite Reporting Coord : (3,2)
+
+Communication Time (seconds) : 0.015999
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 2
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:47
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+23                (4,3)         95        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+24                (4,4)         88        127.0.1.1
+22                (4,2)         89        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 74
+Infrared Satellite Reporting Coord : (4,3)
+
+Communication Time (seconds) : 0.004280
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:47
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+12                (2,2)         94        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+11                (2,1)         96        127.0.1.1
+7                (1,2)         89        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 87
+Infrared Satellite Reporting Coord : (2,2)
+
+Communication Time (seconds) : 0.023873
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+15                (3,0)         92        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+16                (3,1)         88        127.0.1.1
+10                (2,0)         85        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 89
+Infrared Satellite Reporting Coord : (3,0)
+
+Communication Time (seconds) : 0.023043
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+16                (3,1)         88        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+15                (3,0)         92        127.0.1.1
+21                (4,1)         89        127.0.1.1
+11                (2,1)         96        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 91
+Infrared Satellite Reporting Coord : (3,1)
+
+Communication Time (seconds) : 0.020697
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+21                (4,1)         89        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+22                (4,2)         89        127.0.1.1
+20                (4,0)         79        127.0.1.1
+16                (3,1)         88        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 84
+Infrared Satellite Reporting Coord : (4,1)
+
+Communication Time (seconds) : 0.011004
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+5                (1,0)         84        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+10                (2,0)         85        127.0.1.1
+0                (0,0)         83        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 74
+Infrared Satellite Reporting Coord : (1,0)
+
+Communication Time (seconds) : 0.015845
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+6                (1,1)         96        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+7                (1,2)         89        127.0.1.1
+11                (2,1)         96        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 85
+Infrared Satellite Reporting Coord : (1,1)
+
+Communication Time (seconds) : 0.020293
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+7                (1,2)         89        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+8                (1,3)         97        127.0.1.1
+6                (1,1)         96        127.0.1.1
+12                (2,2)         94        127.0.1.1
+2                (0,2)         86        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 85
+Infrared Satellite Reporting Coord : (1,2)
+
+Communication Time (seconds) : 0.020682
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+8                (1,3)         97        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+9                (1,4)         99        127.0.1.1
+7                (1,2)         89        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 80
+Infrared Satellite Reporting Coord : (1,3)
+
+Communication Time (seconds) : 0.007899
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+9                (1,4)         99        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+8                (1,3)         97        127.0.1.1
+14                (2,4)         91        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 87
+Infrared Satellite Reporting Coord : (1,4)
+
+Communication Time (seconds) : 0.029048
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+10                (2,0)         85        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+15                (3,0)         92        127.0.1.1
+5                (1,0)         84        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 91
+Infrared Satellite Reporting Coord : (2,0)
+
+Communication Time (seconds) : 0.042667
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+11                (2,1)         96        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+12                (2,2)         94        127.0.1.1
+16                (3,1)         88        127.0.1.1
+6                (1,1)         96        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 79
+Infrared Satellite Reporting Coord : (2,1)
+
+Communication Time (seconds) : 0.027950
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+23                (4,3)         83        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+24                (4,4)         92        127.0.1.1
+22                (4,2)         89        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 80
+Infrared Satellite Reporting Coord : (4,3)
+
+Communication Time (seconds) : 0.008145
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:50
+Alert Type : True
+
+Reporting Node   Coord         Temp      IP
+22                (4,2)         89        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+23                (4,3)         83        127.0.1.1
+21                (4,1)         89        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 94
+Infrared Satellite Reporting Coord : (4,2)
+
+Communication Time (seconds) : 0.004438
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------
+----------------------------------
+Iteration : 3
+Logged Time :         Sun 2020-11-1 16:1:50
+Alert Reported Time : Sun 2020-11-1 16:1:52
+Alert Type : False
+
+Reporting Node   Coord         Temp      IP
+0                (0,0)         83        127.0.1.1
+
+Adjacent Nodes   Coord         Temp      IP
+1                (0,1)         73        127.0.1.1
+5                (1,0)         84        127.0.1.1
+
+Infrared Satellite Reporting Time (Celcius) : Sun 2020-11-1 16:1:44
+Infrared Satellite Reporting (Celcius) : 72
+Infrared Satellite Reporting Coord : (0,0)
+
+Communication Time (seconds) : 0.016502
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+----------------------------------

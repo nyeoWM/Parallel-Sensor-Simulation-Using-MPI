@@ -1,3 +1,6 @@
+# Description
+A simulation of parallel sensor system for detection of forest fires using MPI
+
 # Instructions
 ## Building
 To compile the program run

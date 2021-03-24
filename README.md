@@ -1,7 +1,14 @@
 # Description
-A simulation of parallel sensor system for detection of forest fires using MPI
+A simulation of parallel sensor system for detection of forest fires using MPI.  
 
-# Instructions
+## Methology
+Base Station Runs in a constant loop until the user quits, periodically checking for messages from the sensors. 
+
+To quit, user inputs 10 into input txt file. 
+
+More details in 
+
+# Running the program
 ## Building
 To compile the program run
 ```bash

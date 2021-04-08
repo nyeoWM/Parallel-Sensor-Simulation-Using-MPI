@@ -1,7 +1,7 @@
 # Wireless Sensor Network Simulation Using MPI and Open MP
 An Implementation and Analysis of a Wireless Sensor Network using Message Passing Interface and Open Multi Processing. Further details and analysis in docs/Wireles-Sensor Network-Simulation-using-MPI-Report.pdf
 
-## Description of implementation
+## Implementation Description
 Base Station Runs in a constant loop until the user quits, periodically checking for messages from the sensors. 
 
 To quit, user inputs 10 into input txt file. 

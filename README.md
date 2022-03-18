@@ -19,7 +19,7 @@ make run
 ```
 
 ### Quiting
-To quit type in "1" into inputStation.txt
+To quit type in "10" into inputStation.txt
 
 ### Cleanup
 To perform cleanup run 
